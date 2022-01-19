@@ -2,11 +2,11 @@
 
 /* Fuente bonita, pero no muy accesible. No se lee fácil. Quizás estaría mejor poner otro tipo de fuente */
 .fuente-bonita {
-    font-family: 'Inspiration', cursive;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,
 }
 
 .fuente-muy-chica {
-    font-size: xx-small;
+    font-size: 1.5em;
 }
 
 body {
